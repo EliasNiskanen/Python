@@ -1,7 +1,3 @@
-# TIE-02100 Johdatus Ohjelmointiin
-#  Hirsipuu
-# Atte Eronen, 267001
-
 # Funktio, joka tuottaa sanan verran alaviivoja
 def alaviiva(lista):
     alaviivat=len(lista)*"_"
